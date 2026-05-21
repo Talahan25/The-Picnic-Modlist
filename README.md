@@ -1,95 +1,223 @@
 # Talahan's Vanilla+ Minecraft Modlist
-A 1.21.1 Vanilla+ pack blending exploration and engineering. Features lore-friendly dimensions, terrain overhauls, and revamped structures alongside an expansive Create mod ecosystem. Optimized for high performance, it includes the Essential mod to easily host and invite friends to your singleplayer world without a server.
+
+A 1.21.1 Vanilla+ pack blending exploration and engineering. Features
+lore-friendly dimensions, terrain overhauls, and revamped structures
+alongside an expansive Create mod ecosystem. Optimized for high
+performance, it includes the Essential mod to easily host and invite
+friends to your singleplayer world without a server.
 
 ## Talahan's Modlist
+
 > Minecraft Version: 1.21.1 | Loader: NeoForge
 
-### 1. Content 
+## 1. Content
 
-<details>
-  <summary>Create Mods</summary>
-  
-  - **Create** - Aesthetic Technology that empowers the Player
-  - **Create Deco** - Industrial decoration themed around the aesthetics of the Create mod
-  - **Create: Aeronautics** - Physics engine for functional airships.
-  - **Create: Interactive** - Mid-flight block interaction and physics stitching.
-  - **Create: Connected** - Kinetic batteries, bridges, and tighter logic options.
-  - **Create: Enchantment Industry** - Liquid XP mechanics and automated enchanting.
-  - **Create Contraption Terminals** - Linking storage to moving vehicles.
-  - **Create: Steam & Rails** - Advanced rail networks and custom trains.
-  - **Create Big Cannons** - A Minecraft mod for building large cannons with the Create mod.
-  - **Create Slice & Dice** - This mod enables a variety of features to create better compatibility between mostly Farmer's Delight and Create.
-  - **Create Smart Bounds** - Improves create mod's block entity renderbounds.
-  - **Create: Bells & Whistles** - Additions and adornments for the modern Create engineer.
-  - **Create: Cardboarded Conveynience** - A small tweak allowing players to be disguised as packages even on chain conveyor.
-  - **Create: Extended Wrenches** - Modify your Create wrench to fit your aesthetic.
-  - **Create: Factory Logistics** - Ever wondered why there are logistics packages, but no logistics jars? Let's fix this!
-  - **Create: Pattern Schematics** - Pattern Schematics can be placed on trains, gantry carriages or any other contraption to infinitely build     iterations of the schematic.
-  - **Create: Prismatic Shine** - A remake version of Create: Crystal Clear, adds glass casings and illumination casings to create.
-  - **Create: Shuffle Filter** - This mod provides a new "Shuffle Filter" item which, when used in Create deployers on contrabtions, enables a     randomnes when placing blocks.
-  - **Create: Dragon Plus** - Provide convenient features to players and dev utilities for Create addon developers.
-  - **Create: Central Kitchen** - Offering more tools and methods to automate food processing of other mod in Create.
-</details>  
+### Create & Tech Automation
 
-<details>
-  <summary>New Dimensions</summary>
+* **[Create](https://modrinth.com/mod/create)**
+* **[Create Deco](https://modrinth.com/mod/create-deco)**
+* **[Create: Connected](https://modrinth.com/mod/create-connected)**
+* **[Create Smart Bounds](https://modrinth.com/mod/create-smart-bounds)**
+* **[Create: Aeronautics](https://modrinth.com/mod/create-aeronautics)**
+* **[Create: Interactive](https://www.google.com/search?q=https://modrinth.com/mod/create-interactive)**
+* **[Sable](https://modrinth.com/mod/sable)**
+* **[Sable: Physics Compat](https://www.google.com/search?q=https://modrinth.com/mod/sable-physics-compat)**
+* **[Create Contraption Terminals](https://modrinth.com/mod/create-contraption-terminals)**
+* **[Create: Steam & Rails 1.21.1](https://modrinth.com/mod/create-steam-n-rails)**
+* **[Create Big Cannons](https://modrinth.com/mod/create-big-cannons)**
+* **[Create: Factory](https://www.curseforge.com/minecraft/mc-mods/create-factory)**
+* **[Create: Factory Logistics](https://www.curseforge.com/minecraft/mc-mods/create-factory-logistics)**
+* **[Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)**
+* **[Create Slice & Dice](https://www.google.com/search?q=https://modrinth.com/mod/create-slice-and-dice)**
+* **[Create: Central Kitchen](https://modrinth.com/mod/create-central-kitchen)**
+* **[Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)**
+* **[Create: Shuffle Filter](https://modrinth.com/mod/create-shuffle-filter)**
+* **[Create Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs)**
+* **[Create: Bells & Whistles](https://www.google.com/search?q=https://modrinth.com/mod/create-bells-and-whistles)**
+* **[Create: Cardboarded Conveynience](https://modrinth.com/mod/create-cardboarded-conveynience)**
+* **[Create: Extended Wrenches](https://www.google.com/search?q=https://modrinth.com/mod/create-extended-wrenches)**
+* **[Create: Framed](https://modrinth.com/mod/create-framed)**
+* **[Create: Prismatic Shine](https://modrinth.com/mod/create-prismatic-shine)**
+* **[Create: Dragon Plus](https://www.google.com/search?q=https://modrinth.com/mod/create-dragon-plus)**
 
-  - **The Aether** - The Aether centers around a dimension high in the sky, filled with vast skylands of clouds and floating islands.
-  - **The Twilight Forest** - A realm basked in mystery and eerie twilight, you will overpower terrifying creatures and secure the adventure         of      a lifetime; in the Twilight Forest.
-  - **The Undergarden** - Deep underground, a forgotten land awaits.
-  
-</details> 
+### Dimensions & Exploration
 
-### 2. Environment & World-Gen
+* **[The Aether](https://modrinth.com/mod/aether)**
+* **[The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)**
+* **[The Undergarden](https://modrinth.com/mod/the-undergarden)**
+* **[Deeper and Darker](https://modrinth.com/mod/deeper-and-darker)**
+* **[Carry On](https://modrinth.com/mod/carry-on)**
+* **[Lootr](https://modrinth.com/mod/lootr)**
+* **[Artifacts](https://modrinth.com/mod/artifacts)**
 
-<details>
-  <summary>Terrain Overhauls</summary>
+### Mechanics, Cuisine & Decor
 
-  - **Terralith** - Adds over 95 brand new biomes, as well as updating almost every vanilla biome with new and improved features.
-  - **Tectonic** - Terrain shaping brought to new heights, grander and more varied than ever before!
+* **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)**
+* **[End's Delight](https://modrinth.com/mod/ends-delight)**
+* **[Miners Delight](https://modrinth.com/mod/miners-delight)**
+* **[My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)**
+* **[Smarter Farmers](https://www.google.com/search?q=https://modrinth.com/mod/smarter-farmers)**
+* **[Alloyed](https://modrinth.com/mod/alloyed)**
+* **[Netherite Horse Armor](https://modrinth.com/mod/netherite-horse-armor)**
+* **[PrickleMC](https://modrinth.com/mod/prickle)**
+* **[Quark](https://www.curseforge.com/minecraft/mc-mods/quark)**
+* **[Another Furniture](https://modrinth.com/mod/another-furniture)**
+* **[Fast Paintings](https://modrinth.com/mod/fast-paintings)**
 
-</details>
+---
 
-<details>
-  <summary>Revamped/New Structures</summary>
+## 2. Environment & World-Gen
 
-  - **YUNG's Better Caves**
-  - **YUNG's Better Desert Temples**
-  - **YUNG's Better Dungeons**
-  - **YUNG's Better End Island**
-  - **YUNG's Better Jungle Tempels**
-  - **YUNG's Better Mineshafts**
-  - **YUNG's Better Nether Fortresses**
-  - **YUNG's Better Ocean Momuments**
-  - **YUNG's Better Witch Huts**
-  - **YUNG's Cave Biomes**
-  - **Integrated Villages**
-  - **Integrated Stronghold**
+### World Geometry & Biomes
 
-</details>
+* **[Terralith](https://modrinth.com/mod/terralith)**
+* **[Tectonic](https://modrinth.com/mod/tectonic)**
+* **[Ecologics](https://modrinth.com/mod/ecologics)**
 
-### 3. Quality of Life
+### Dungeon Redesigns
 
-<details>
-  <summary>Performance</summary>
+* **[YUNG's Better Caves](https://modrinth.com/mod/yungs-better-caves)**
+* **[YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)**
+* **[YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)**
+* **[YUNG's Better End Island](https://modrinth.com/mod/yungs-better-end-island)**
+* **[YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)**
+* **[YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)**
+* **[YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)**
+* **[YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)**
+* **[YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)**
+* **[YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-extras)**
+* **[Integrated Stronghold](https://modrinth.com/mod/integrated-stronghold)**
+* **[Integrated Villages](https://modrinth.com/mod/integrated-villages)**
 
-  - **Sodium**
-  - **Flevorium**
-  - **Entity Culling**
-  - **Modernfix (with dynamic resources now enabled since issues were fixed)**
-  - **Lithium**
-  - **FerriteCore**
-  - **mmediatelyFast**
-  - **Kerria**
-  - **Fast Noise**
-  - **Ixeris**
-  - **Concurrent Chunk Management Engine**
-  - **Cerulean**
-  - **Not Enough Recipe Book**
-  - **BadOptimizations**
-  - **More Culling**
-  - **Structure Layout Optimizer**
-  - **Async Logger**
-  - **Create Smart Bounds**
+---
 
-</details>
+## 3. Quality of Life
+
+### Performance & Core Optimization
+
+* **[Sodium](https://modrinth.com/mod/sodium)**
+* **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)**
+* **[Sodium Extra](https://modrinth.com/mod/sodium-extra)**
+* **[Entity Culling](https://modrinth.com/mod/entityculling)**
+* **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)**
+* **[BadOptimizations](https://modrinth.com/mod/badoptimizations)**
+* **[More Culling](https://modrinth.com/mod/moreculling)**
+* **[Lithium](https://modrinth.com/mod/lithium)**
+* **[Ferrite Core](https://modrinth.com/mod/ferrite-core)**
+* **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)**
+* **[ModernFix](https://modrinth.com/mod/modernfix)**
+* **[Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer)**
+* **[Async Logger](https://www.google.com/search?q=https://modrinth.com/mod/asynclogger)**
+* **[AsyncParticles](https://modrinth.com/mod/asyncparticles)**
+* **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)**
+* **[Flerovium](https://modrinth.com/mod/flerovium)**
+* **[Ixeris](https://modrinth.com/mod/ixeris)**
+* **[Kerria](https://www.google.com/search?q=https://modrinth.com/mod/kerria)**
+* **[Fast Noise Mod](https://www.google.com/search?q=https://modrinth.com/mod/fastnoise)**
+* **[Lithostitched](https://modrinth.com/mod/lithostitched)**
+
+### HUD, Inventory & Visual Tweaks
+
+* **[EMI](https://modrinth.com/mod/emi)**
+* **[EMI Loot](https://modrinth.com/mod/emi-loot)**
+* **[EMI++](https://www.curseforge.com/minecraft/mc-mods/emi-plus-plus)**
+* **[TooManyRecipeViewers](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/toomanyrecipeviewers)**
+* **[Not Enough Recipe Book](https://www.google.com/search?q=https://modrinth.com/mod/nerb)**
+* **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)**
+* **[TrashSlot](https://modrinth.com/mod/trashslot)**
+* **[Potion Stacks](https://www.curseforge.com/minecraft/mc-mods/potion-stacks)**
+* **[Smooth Swapping](https://modrinth.com/mod/smooth-swapping)**
+* **[ShulkerBoxTooltip](https://modrinth.com/mod/shulkerboxtooltip)**
+* **[Better Advancements](https://modrinth.com/mod/better-advancements)**
+* **[Map Atlases](https://modrinth.com/mod/map-atlases)**
+* **[AppleSkin](https://modrinth.com/mod/appleskin)**
+* **[Status Effect Bars](https://modrinth.com/mod/status-effect-bars)**
+* **[Detail Armor Bar Reconstructed](https://modrinth.com/mod/detail-armor-bar)**
+* **[eg-inventory-blur](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/eg-inventory-blur)**
+* **[Chat Heads](https://modrinth.com/mod/chat-heads)**
+* **[Controlling](https://modrinth.com/mod/controlling)**
+* **[Zume](https://modrinth.com/mod/zume)**
+* **[Accessories](https://modrinth.com/mod/accessories)**
+* **[Accessories Compatibility Layer](https://www.google.com/search?q=https://modrinth.com/mod/accessories-compat)**
+* **[Elytra Slot](https://modrinth.com/mod/elytra-slot)**
+* **[Jade](https://modrinth.com/mod/jade)**
+* **[Durability Tooltip](https://modrinth.com/mod/durability-tooltip)**
+* **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)**
+* **[Aileron](https://modrinth.com/mod/aileron)**
+* **[Armor Statues](https://modrinth.com/mod/armor-statues)**
+* **[Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)**
+* **[Cut Through](https://modrinth.com/mod/cut-through)**
+* **[Easy Anvils](https://modrinth.com/mod/easy-anvils)**
+* **[DistractingTrims](https://www.google.com/search?q=https://modrinth.com/mod/distractingtrims)**
+* **[Right Click Harvest](https://modrinth.com/mod/right-click-harvest)**
+* **[Armor Stand Arms](https://modrinth.com/mod/armor-stand-arms)**
+* **[Passable Foliage](https://modrinth.com/mod/passable-foliage)**
+* **[Eating Animation](https://modrinth.com/mod/eating-animation)**
+* **[NotEnoughAnimations](https://www.google.com/search?q=https://modrinth.com/mod/notenoughanimations)**
+* **[[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)**
+* **[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)**
+* **[3d-Skin-Layers](https://modrinth.com/mod/3dskinlayers)**
+* **[Visuality: Reforged](https://www.google.com/search?q=https://modrinth.com/mod/visuality-reforged)**
+* **[Particle Rain](https://modrinth.com/mod/particle-rain)**
+* **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)**
+* **[Visual Workbench](https://modrinth.com/mod/visual-workbench)**
+* **[Boat Item View](https://modrinth.com/mod/boat-item-view)**
+* **[Naturally Trimmed](https://modrinth.com/mod/naturally-trimmed)**
+* **[Elytra Trims](https://modrinth.com/mod/elytra-trims)**
+* **[Ding](https://modrinth.com/mod/ding)**
+* **[Sounds](https://modrinth.com/mod/sound-physics-remastered)**
+* **[More Sounds](https://modrinth.com/mod/more-sounds)**
+* **[Mod Menu](https://modrinth.com/mod/modmenu)**
+* **[Simple Netherite Horse Armor](https://www.curseforge.com/minecraft/mc-mods/simple-netherite-horse-armor)**
+* **[Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix)**
+
+### Networking, Social & Libraries
+
+* **[e4mc](https://modrinth.com/mod/e4mc)**
+* **[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)**
+* **[Companion](https://modrinth.com/mod/companion)**
+* **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)**
+* **[Scholar](https://modrinth.com/mod/scholar)**
+* **[Seamless Sleep](https://modrinth.com/mod/seamless-sleep)**
+* **[Updating World Icon](https://modrinth.com/mod/updating-world-icon)**
+* **[Essential Mod](https://modrinth.com/mod/essential)**
+* **[Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)**
+* **[Resourcify](https://modrinth.com/mod/resourcify)**
+* **[Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)**
+* **[quick-pack](https://modrinth.com/mod/quick-pack)**
+* **[Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)**
+* **[Sinytra Connector](https://www.google.com/search?q=https://modrinth.com/mod/sinytra-connector)**
+* **[Connector Extras](https://modrinth.com/mod/connector-extras)**
+* **[Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)**
+* **[Architectury](https://modrinth.com/mod/architectury-api)**
+* **[Balm](https://modrinth.com/mod/balm)**
+* **[Bookshelf](https://www.google.com/search?q=https://modrinth.com/mod/bookshelf)**
+* **[Cerulean](https://modrinth.com/mod/cerulean)**
+* **[Cloth Config v15 API](https://modrinth.com/mod/cloth-config)**
+* **[CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)**
+* **[Fzzy Config](https://modrinth.com/mod/fzzy-config)**
+* **[GPUTape](https://www.curseforge.com/minecraft/mc-mods/gputape)**
+* **[GroovyModLoader](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/groovymodloader)**
+* **[Kiwi Library](https://modrinth.com/mod/kiwi)**
+* **[Konkrete](https://modrinth.com/mod/konkrete)**
+* **[Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)**
+* **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)**
+* **[Lodestone](https://www.google.com/search?q=https://modrinth.com/mod/lodestone)**
+* **[M.R.U](https://modrinth.com/mod/mru)**
+* **[Moonlight Lib](https://modrinth.com/mod/moonlight)**
+* **[OctoLib]()**
+* **[Puzzles Lib]()**
+* **[Resourcefulconfig]()**
+* **[Ritchie's Projectile Library]()**
+* **[Searchables]()**
+* **[TxniLib]()**
+* **[YUNG's API]()**
+* **[Zeta]()**
+* **[iChunUtil]()**
+* **[Curios API]()**
+* **[TerraBlender]()**
+* **[BookshelfInspector]()**
+* **[Caelus API]()**
+* **[JamLib]()**
+* **[SuperMartijn642's Config Library]()**
+* **[oωo]()**
