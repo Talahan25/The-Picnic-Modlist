@@ -62,8 +62,7 @@ friends to your singleplayer world without a server.
 * **[PrickleMC](https://modrinth.com/mod/prickle)**
 * **[Quark](https://www.curseforge.com/minecraft/mc-mods/quark)**
 * **[Another Furniture](https://modrinth.com/mod/another-furniture)**
-* **[Fast Paintings](https://modrinth.com/mod/fast-paintings)**
-
+  
 ---
 
 ## 2. Environment & World-Gen
@@ -98,13 +97,9 @@ friends to your singleplayer world without a server.
 * **[Sodium](https://modrinth.com/mod/sodium)**
 * **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)**
 * **[Sodium Extra](https://modrinth.com/mod/sodium-extra)**
-* **[Entity Culling](https://modrinth.com/mod/entityculling)**
 * **[ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)**
-* **[BadOptimizations](https://modrinth.com/mod/badoptimizations)**
-* **[More Culling](https://modrinth.com/mod/moreculling)**
 * **[Lithium](https://modrinth.com/mod/lithium)**
 * **[Ferrite Core](https://modrinth.com/mod/ferrite-core)**
-* **[Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)**
 * **[ModernFix](https://modrinth.com/mod/modernfix)**
 * **[Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer)**
 * **[Async Logger](https://www.google.com/search?q=https://modrinth.com/mod/asynclogger)**
@@ -113,7 +108,6 @@ friends to your singleplayer world without a server.
 * **[Flerovium](https://modrinth.com/mod/flerovium)**
 * **[Ixeris](https://modrinth.com/mod/ixeris)**
 * **[Kerria](https://www.google.com/search?q=https://modrinth.com/mod/kerria)**
-* **[Fast Noise Mod](https://www.google.com/search?q=https://modrinth.com/mod/fastnoise)**
 * **[Lithostitched](https://modrinth.com/mod/lithostitched)**
 
 ### HUD, Inventory & Visual Tweaks
@@ -121,8 +115,6 @@ friends to your singleplayer world without a server.
 * **[EMI](https://modrinth.com/mod/emi)**
 * **[EMI Loot](https://modrinth.com/mod/emi-loot)**
 * **[EMI++](https://www.curseforge.com/minecraft/mc-mods/emi-plus-plus)**
-* **[TooManyRecipeViewers](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/toomanyrecipeviewers)**
-* **[Not Enough Recipe Book](https://www.google.com/search?q=https://modrinth.com/mod/nerb)**
 * **[Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)**
 * **[TrashSlot](https://modrinth.com/mod/trashslot)**
 * **[Potion Stacks](https://www.curseforge.com/minecraft/mc-mods/potion-stacks)**
@@ -131,10 +123,7 @@ friends to your singleplayer world without a server.
 * **[Better Advancements](https://modrinth.com/mod/better-advancements)**
 * **[Map Atlases](https://modrinth.com/mod/map-atlases)**
 * **[AppleSkin](https://modrinth.com/mod/appleskin)**
-* **[Status Effect Bars](https://modrinth.com/mod/status-effect-bars)**
 * **[Detail Armor Bar Reconstructed](https://modrinth.com/mod/detail-armor-bar)**
-* **[eg-inventory-blur](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/eg-inventory-blur)**
-* **[Chat Heads](https://modrinth.com/mod/chat-heads)**
 * **[Controlling](https://modrinth.com/mod/controlling)**
 * **[Zume](https://modrinth.com/mod/zume)**
 * **[Accessories](https://modrinth.com/mod/accessories)**
@@ -142,15 +131,12 @@ friends to your singleplayer world without a server.
 * **[Elytra Slot](https://modrinth.com/mod/elytra-slot)**
 * **[Jade](https://modrinth.com/mod/jade)**
 * **[Durability Tooltip](https://modrinth.com/mod/durability-tooltip)**
-* **[Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier)**
 * **[Aileron](https://modrinth.com/mod/aileron)**
 * **[Armor Statues](https://modrinth.com/mod/armor-statues)**
-* **[Axes Are Weapons](https://modrinth.com/mod/axes-are-weapons)**
 * **[Cut Through](https://modrinth.com/mod/cut-through)**
 * **[Easy Anvils](https://modrinth.com/mod/easy-anvils)**
 * **[DistractingTrims](https://www.google.com/search?q=https://modrinth.com/mod/distractingtrims)**
 * **[Right Click Harvest](https://modrinth.com/mod/right-click-harvest)**
-* **[Armor Stand Arms](https://modrinth.com/mod/armor-stand-arms)**
 * **[Passable Foliage](https://modrinth.com/mod/passable-foliage)**
 * **[Eating Animation](https://modrinth.com/mod/eating-animation)**
 * **[NotEnoughAnimations](https://www.google.com/search?q=https://modrinth.com/mod/notenoughanimations)**
@@ -158,37 +144,28 @@ friends to your singleplayer world without a server.
 * **[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)**
 * **[3d-Skin-Layers](https://modrinth.com/mod/3dskinlayers)**
 * **[Visuality: Reforged](https://www.google.com/search?q=https://modrinth.com/mod/visuality-reforged)**
-* **[Particle Rain](https://modrinth.com/mod/particle-rain)**
-* **[What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)**
 * **[Visual Workbench](https://modrinth.com/mod/visual-workbench)**
 * **[Boat Item View](https://modrinth.com/mod/boat-item-view)**
 * **[Naturally Trimmed](https://modrinth.com/mod/naturally-trimmed)**
 * **[Elytra Trims](https://modrinth.com/mod/elytra-trims)**
-* **[Ding](https://modrinth.com/mod/ding)**
 * **[Sounds](https://modrinth.com/mod/sound-physics-remastered)**
 * **[More Sounds](https://modrinth.com/mod/more-sounds)**
 * **[Mod Menu](https://modrinth.com/mod/modmenu)**
-* **[Simple Netherite Horse Armor](https://www.curseforge.com/minecraft/mc-mods/simple-netherite-horse-armor)**
 * **[Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix)**
 
 ### Networking, Social & Libraries
 
-* **[e4mc](https://modrinth.com/mod/e4mc)**
 * **[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)**
 * **[Companion](https://modrinth.com/mod/companion)**
 * **[NetherPortalFix](https://modrinth.com/mod/netherportalfix)**
 * **[Scholar](https://modrinth.com/mod/scholar)**
 * **[Seamless Sleep](https://modrinth.com/mod/seamless-sleep)**
-* **[Updating World Icon](https://modrinth.com/mod/updating-world-icon)**
 * **[Essential Mod](https://modrinth.com/mod/essential)**
 * **[Configured Defaults](https://www.curseforge.com/minecraft/mc-mods/configured-defaults)**
 * **[Resourcify](https://modrinth.com/mod/resourcify)**
 * **[Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)**
 * **[quick-pack](https://modrinth.com/mod/quick-pack)**
 * **[Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)**
-* **[Sinytra Connector](https://www.google.com/search?q=https://modrinth.com/mod/sinytra-connector)**
-* **[Connector Extras](https://modrinth.com/mod/connector-extras)**
-* **[Forgified Fabric API](https://modrinth.com/mod/forgified-fabric-api)**
 * **[Architectury](https://modrinth.com/mod/architectury-api)**
 * **[Balm](https://modrinth.com/mod/balm)**
 * **[Bookshelf](https://www.google.com/search?q=https://modrinth.com/mod/bookshelf)**
@@ -216,7 +193,6 @@ friends to your singleplayer world without a server.
 * **[iChunUtil]()**
 * **[Curios API]()**
 * **[TerraBlender]()**
-* **[BookshelfInspector]()**
 * **[Caelus API]()**
 * **[JamLib]()**
 * **[SuperMartijn642's Config Library]()**
