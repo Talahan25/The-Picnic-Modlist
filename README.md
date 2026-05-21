@@ -222,5 +222,15 @@ friends to your singleplayer world without a server.
 * **[JamLib](https://modrinth.com/mod/jamlib)**
 * **[SuperMartijn642's Config Library](https://modrinth.com/mod/supermartijn642s-config-lib)**
 * **[oωo](https://modrinth.com/mod/owo-lib)**
+  
+</details>
+
+<details>
+  <summary>Resource Packs <strong>(3 Packs)</strong></summary>
+
+  * **[Fresh Animations: Player Extension](https://modrinth.com/resourcepack/fa-player-extension)**
+  * **[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)**
+  * **[Visual Effects+](https://modrinth.com/resourcepack/visual-effects-plus)**
 
 </details>
+
