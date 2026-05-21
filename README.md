@@ -19,26 +19,27 @@ friends to your singleplayer world without a server.
 * **[Create: Connected](https://modrinth.com/mod/create-connected)**
 * **[Create Smart Bounds](https://modrinth.com/mod/create-smart-bounds)**
 * **[Create: Aeronautics](https://modrinth.com/mod/create-aeronautics)**
-* **[Create: Interactive](https://www.google.com/search?q=https://modrinth.com/mod/create-interactive)**
+* **[Create: Interactive](https://modrinth.com/mod/interactive)**
 * **[Sable](https://modrinth.com/mod/sable)**
-* **[Sable: Physics Compat](https://www.google.com/search?q=https://modrinth.com/mod/sable-physics-compat)**
+* **[Sable: Physics Compat](https://modrinth.com/mod/sablecompat)**
 * **[Create Contraption Terminals](https://modrinth.com/mod/create-contraption-terminals)**
 * **[Create: Steam & Rails 1.21.1](https://modrinth.com/mod/create-steam-n-rails)**
 * **[Create Big Cannons](https://modrinth.com/mod/create-big-cannons)**
 * **[Create: Factory](https://www.curseforge.com/minecraft/mc-mods/create-factory)**
 * **[Create: Factory Logistics](https://www.curseforge.com/minecraft/mc-mods/create-factory-logistics)**
 * **[Create: Pattern Schematics](https://modrinth.com/mod/create-pattern-schematics)**
-* **[Create Slice & Dice](https://www.google.com/search?q=https://modrinth.com/mod/create-slice-and-dice)**
+* **[Create Slice & Dice](https://modrinth.com/mod/slice-and-dice)**
 * **[Create: Central Kitchen](https://modrinth.com/mod/create-central-kitchen)**
 * **[Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry)**
 * **[Create: Shuffle Filter](https://modrinth.com/mod/create-shuffle-filter)**
 * **[Create Bits 'n' Bobs](https://modrinth.com/mod/create-bits-n-bobs)**
-* **[Create: Bells & Whistles](https://www.google.com/search?q=https://modrinth.com/mod/create-bells-and-whistles)**
+* **[Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles)**
 * **[Create: Cardboarded Conveynience](https://modrinth.com/mod/create-cardboarded-conveynience)**
-* **[Create: Extended Wrenches](https://www.google.com/search?q=https://modrinth.com/mod/create-extended-wrenches)**
+* **[Create: Extended Wrenches](https://modrinth.com/mod/extended-wrenches)**
 * **[Create: Framed](https://modrinth.com/mod/create-framed)**
 * **[Create: Prismatic Shine](https://modrinth.com/mod/create-prismatic-shine)**
-* **[Create: Dragon Plus](https://www.google.com/search?q=https://modrinth.com/mod/create-dragon-plus)**
+* **[Create: Dragon Plus](https://modrinth.com/mod/create-dragons-plus)**
+* **[Create: Copycats+](https://modrinth.com/mod/copycats)**
 
 ### Dimensions & Exploration
 
@@ -56,12 +57,14 @@ friends to your singleplayer world without a server.
 * **[End's Delight](https://modrinth.com/mod/ends-delight)**
 * **[Miners Delight](https://modrinth.com/mod/miners-delight)**
 * **[My Nether's Delight](https://modrinth.com/mod/my-nethers-delight)**
-* **[Smarter Farmers](https://www.google.com/search?q=https://modrinth.com/mod/smarter-farmers)**
+* **[Smarter Farmers](https://modrinth.com/mod/smarter-farmers-farmers-replant)**
 * **[Alloyed](https://modrinth.com/mod/alloyed)**
 * **[Netherite Horse Armor](https://modrinth.com/mod/netherite-horse-armor)**
 * **[PrickleMC](https://modrinth.com/mod/prickle)**
 * **[Quark](https://www.curseforge.com/minecraft/mc-mods/quark)**
 * **[Another Furniture](https://modrinth.com/mod/another-furniture)**
+* **[VeinMiner](https://modrinth.com/project/OhduvhIc)**
+* **[VeinMiner Enchantment](https://modrinth.com/project/veinminer-enchantment)**
   
 ---
 
@@ -102,12 +105,12 @@ friends to your singleplayer world without a server.
 * **[Ferrite Core](https://modrinth.com/mod/ferrite-core)**
 * **[ModernFix](https://modrinth.com/mod/modernfix)**
 * **[Structure Layout Optimizer](https://modrinth.com/mod/structure-layout-optimizer)**
-* **[Async Logger](https://www.google.com/search?q=https://modrinth.com/mod/asynclogger)**
+* **[Async Logger](https://modrinth.com/mod/asynclogger)**
 * **[AsyncParticles](https://modrinth.com/mod/asyncparticles)**
 * **[Dynamic FPS](https://modrinth.com/mod/dynamic-fps)**
 * **[Flerovium](https://modrinth.com/mod/flerovium)**
 * **[Ixeris](https://modrinth.com/mod/ixeris)**
-* **[Kerria](https://www.google.com/search?q=https://modrinth.com/mod/kerria)**
+* **[Kerria](https://modrinth.com/mod/kerria-opt)**
 * **[Lithostitched](https://modrinth.com/mod/lithostitched)**
 
 ### HUD, Inventory & Visual Tweaks
@@ -127,7 +130,7 @@ friends to your singleplayer world without a server.
 * **[Controlling](https://modrinth.com/mod/controlling)**
 * **[Zume](https://modrinth.com/mod/zume)**
 * **[Accessories](https://modrinth.com/mod/accessories)**
-* **[Accessories Compatibility Layer](https://www.google.com/search?q=https://modrinth.com/mod/accessories-compat)**
+* **[Accessories Compatibility Layer](https://modrinth.com/mod/accessories-compat-layer)**
 * **[Elytra Slot](https://modrinth.com/mod/elytra-slot)**
 * **[Jade](https://modrinth.com/mod/jade)**
 * **[Durability Tooltip](https://modrinth.com/mod/durability-tooltip)**
@@ -135,15 +138,15 @@ friends to your singleplayer world without a server.
 * **[Armor Statues](https://modrinth.com/mod/armor-statues)**
 * **[Cut Through](https://modrinth.com/mod/cut-through)**
 * **[Easy Anvils](https://modrinth.com/mod/easy-anvils)**
-* **[DistractingTrims](https://www.google.com/search?q=https://modrinth.com/mod/distractingtrims)**
+* **[DistractingTrims](https://modrinth.com/project/xQU6E1ee)**
 * **[Right Click Harvest](https://modrinth.com/mod/right-click-harvest)**
 * **[Passable Foliage](https://modrinth.com/mod/passable-foliage)**
 * **[Eating Animation](https://modrinth.com/mod/eating-animation)**
-* **[NotEnoughAnimations](https://www.google.com/search?q=https://modrinth.com/mod/notenoughanimations)**
-* **[[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)**
-* **[[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)**
+* **[NotEnoughAnimations](https://modrinth.com/project/MPCX6s5C)**
+* **[Entity Model Features](https://modrinth.com/mod/entity-model-features)**
+* **[Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)**
 * **[3d-Skin-Layers](https://modrinth.com/mod/3dskinlayers)**
-* **[Visuality: Reforged](https://www.google.com/search?q=https://modrinth.com/mod/visuality-reforged)**
+* **[Visuality: Reforged](https://modrinth.com/mod/visuality-forge)**
 * **[Visual Workbench](https://modrinth.com/mod/visual-workbench)**
 * **[Boat Item View](https://modrinth.com/mod/boat-item-view)**
 * **[Naturally Trimmed](https://modrinth.com/mod/naturally-trimmed)**
@@ -168,32 +171,32 @@ friends to your singleplayer world without a server.
 * **[Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)**
 * **[Architectury](https://modrinth.com/mod/architectury-api)**
 * **[Balm](https://modrinth.com/mod/balm)**
-* **[Bookshelf](https://www.google.com/search?q=https://modrinth.com/mod/bookshelf)**
+* **[Bookshelf](https://modrinth.com/mod/bookshelf-lib)**
 * **[Cerulean](https://modrinth.com/mod/cerulean)**
 * **[Cloth Config v15 API](https://modrinth.com/mod/cloth-config)**
 * **[CoroUtil](https://www.curseforge.com/minecraft/mc-mods/coroutil)**
 * **[Fzzy Config](https://modrinth.com/mod/fzzy-config)**
 * **[GPUTape](https://www.curseforge.com/minecraft/mc-mods/gputape)**
-* **[GroovyModLoader](https://www.google.com/search?q=https://www.curseforge.com/minecraft/mc-mods/groovymodloader)**
+* **[GroovyModLoader](https://modrinth.com/mod/gml)**
 * **[Kiwi Library](https://modrinth.com/mod/kiwi)**
 * **[Konkrete](https://modrinth.com/mod/konkrete)**
 * **[Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)**
 * **[LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)**
-* **[Lodestone](https://www.google.com/search?q=https://modrinth.com/mod/lodestone)**
+* **[Lodestone](https://modrinth.com/mod/lodestonelib)**
 * **[M.R.U](https://modrinth.com/mod/mru)**
 * **[Moonlight Lib](https://modrinth.com/mod/moonlight)**
-* **[OctoLib]()**
-* **[Puzzles Lib]()**
-* **[Resourcefulconfig]()**
-* **[Ritchie's Projectile Library]()**
-* **[Searchables]()**
-* **[TxniLib]()**
-* **[YUNG's API]()**
-* **[Zeta]()**
-* **[iChunUtil]()**
-* **[Curios API]()**
-* **[TerraBlender]()**
-* **[Caelus API]()**
-* **[JamLib]()**
-* **[SuperMartijn642's Config Library]()**
-* **[oωo]()**
+* **[OctoLib](https://modrinth.com/mod/octo-lib/version/0.6.2)**
+* **[Puzzles Lib](https://modrinth.com/mod/puzzles-lib/version/v21.1.39-1.21.1-NeoForge)**
+* **[Resourcefulconfig](https://modrinth.com/mod/resourceful-config/version/3.0.11)**
+* **[Ritchie's Projectile Library](https://modrinth.com/mod/rpl/version/2.1.2)**
+* **[Searchables](https://modrinth.com/mod/searchables/version/1.0.2)**
+* **[TxniLib](https://modrinth.com/mod/txnilib/version/neoforge-1.21.1-1.0.24)**
+* **[YUNG's API](https://modrinth.com/mod/yungs-api/version/1.21.1-NeoForge-5.1.6)**
+* **[Zeta](https://modrinth.com/mod/zeta/version/1.1-40)**
+* **[iChunUtil](https://modrinth.com/mod/ichunutil/version/1.0.3)**
+* **[Curios API](https://modrinth.com/mod/curios)**
+* **[TerraBlender](https://modrinth.com/mod/terrablender)**
+* **[Caelus API](https://modrinth.com/mod/caelus)**
+* **[JamLib](https://modrinth.com/mod/jamlib)**
+* **[SuperMartijn642's Config Library](https://modrinth.com/mod/supermartijn642s-config-lib)**
+* **[oωo](https://modrinth.com/mod/owo-lib)**
