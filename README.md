@@ -8,11 +8,12 @@ friends to your singleplayer world without a server.
 
 ## Talahan's Modlist
 
-> Minecraft Version: 1.21.1 | Loader: NeoForge
+> Minecraft Version: 1.21.1 | Loader: NeoForge | Current Mods: 157 |
 
 ## 1. Content
 
-### Create & Tech Automation
+<details>
+  <summary>Create & Tech Automation <strong>(26 Mods)</strong></summary>
 
 * **[Create](https://modrinth.com/mod/create)**
 * **[Create Deco](https://modrinth.com/mod/create-deco)**
@@ -41,7 +42,10 @@ friends to your singleplayer world without a server.
 * **[Create: Dragon Plus](https://modrinth.com/mod/create-dragons-plus)**
 * **[Create: Copycats+](https://modrinth.com/mod/copycats)**
 
-### Dimensions & Exploration
+</details>
+
+<details>
+  <summary>Dimensions & Exploration <strong>(7 Mods)</strong></summary>
 
 * **[The Aether](https://modrinth.com/mod/aether)**
 * **[The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)**
@@ -51,7 +55,10 @@ friends to your singleplayer world without a server.
 * **[Lootr](https://modrinth.com/mod/lootr)**
 * **[Artifacts](https://modrinth.com/mod/artifacts)**
 
-### Mechanics, Cuisine & Decor
+</details>
+
+<details>
+<summary>Mechanics, Cuisine & Decor <strong>(12 Mods)</strong></summary>
 
 * **[Farmer's Delight](https://modrinth.com/mod/farmers-delight)**
 * **[End's Delight](https://modrinth.com/mod/ends-delight)**
@@ -65,18 +72,24 @@ friends to your singleplayer world without a server.
 * **[Another Furniture](https://modrinth.com/mod/another-furniture)**
 * **[VeinMiner](https://modrinth.com/project/OhduvhIc)**
 * **[VeinMiner Enchantment](https://modrinth.com/project/veinminer-enchantment)**
-  
+
+</details>
+
 ---
 
 ## 2. Environment & World-Gen
 
-### World Geometry & Biomes
+<details>
+<summary>World Geometry & Biomes <strong>(3 Mods)</strong></summary>
 
 * **[Terralith](https://modrinth.com/mod/terralith)**
 * **[Tectonic](https://modrinth.com/mod/tectonic)**
 * **[Ecologics](https://modrinth.com/mod/ecologics)**
 
-### Dungeon Redesigns
+</details>
+
+<details>
+<summary>Dungeon Redesigns <strong>(12 Mods)</strong></summary>
 
 * **[YUNG's Better Caves](https://modrinth.com/mod/yungs-better-caves)**
 * **[YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)**
@@ -91,11 +104,14 @@ friends to your singleplayer world without a server.
 * **[Integrated Stronghold](https://modrinth.com/mod/integrated-stronghold)**
 * **[Integrated Villages](https://modrinth.com/mod/integrated-villages)**
 
+</details>
+
 ---
 
 ## 3. Quality of Life
 
-### Performance & Core Optimization
+<details>
+<summary>Performance & Core Optimization <strong>(15 Mods)</strong></summary>
 
 * **[Sodium](https://modrinth.com/mod/sodium)**
 * **[Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)**
@@ -113,7 +129,10 @@ friends to your singleplayer world without a server.
 * **[Kerria](https://modrinth.com/mod/kerria-opt)**
 * **[Lithostitched](https://modrinth.com/mod/lithostitched)**
 
-### HUD, Inventory & Visual Tweaks
+</details>
+
+<details>
+<summary>HUD, Inventory & Visual Tweaks <strong>(40 Mods)</strong></summary>
 
 * **[EMI](https://modrinth.com/mod/emi)**
 * **[EMI Loot](https://modrinth.com/mod/emi-loot)**
@@ -156,7 +175,10 @@ friends to your singleplayer world without a server.
 * **[Mod Menu](https://modrinth.com/mod/modmenu)**
 * **[Neo Bee Fix](https://www.curseforge.com/minecraft/mc-mods/neo-bee-fix)**
 
-### Networking, Social & Libraries
+</details>
+
+<details>
+<summary>Networking, Social & Libraries <strong>(42 Mods)</strong></summary>
 
 * **[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)**
 * **[Companion](https://modrinth.com/mod/companion)**
@@ -200,3 +222,5 @@ friends to your singleplayer world without a server.
 * **[JamLib](https://modrinth.com/mod/jamlib)**
 * **[SuperMartijn642's Config Library](https://modrinth.com/mod/supermartijn642s-config-lib)**
 * **[oωo](https://modrinth.com/mod/owo-lib)**
+
+</details>
